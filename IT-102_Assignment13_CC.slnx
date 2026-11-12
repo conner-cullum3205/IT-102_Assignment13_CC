@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="IT-102_Assignment13_CC/IT-102_Assignment13_CC.vbproj" Id="65af7120-f4da-4b7a-9bd8-34fcb2693ddc">
+    <Platform Solution="*|x64" Project="x64" />
+  </Project>
+</Solution>
